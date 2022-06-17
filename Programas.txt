@@ -1,0 +1,7 @@
+Custom/1/10/Custom/.
+Frango/60/5/Descrição Frango/f
+Carne/80/8/Descrição Carne/c
+Peixe/50/4/Descrição peixe/p
+Feijão/30/3/Descrição Feijão/j
+Pipoca/40/2/Descrição Pipoca/i
+teste/1/10/Descrição teste/t

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/14 14:44:04.971.pas,C:\Users\infosky\Documents\RAD Studio\Projects\Unit3.pas=D:\Programas AUX\Projeto Microondas\uMicro.pas</Transaction>
+    <Transaction>2022/06/14 14:44:04.993.dfm,C:\Users\infosky\Documents\RAD Studio\Projects\Unit3.dfm=D:\Programas AUX\Projeto Microondas\uMicro.dfm</Transaction>
+    <Transaction>2022/06/14 14:44:24.451.dproj,C:\Users\infosky\Documents\RAD Studio\Projects\Project2.dproj=D:\Programas AUX\Projeto Microondas\pMicroOndas.dproj</Transaction>
+    <Transaction>2022/06/14 14:44:30.967.pas,D:\Programas AUX\Projeto Microondas\uMicro.pas=D:\Programas AUX\Projeto Microondas\uMicroOndas.pas</Transaction>
+    <Transaction>2022/06/14 14:44:30.967.dfm,D:\Programas AUX\Projeto Microondas\uMicro.dfm=D:\Programas AUX\Projeto Microondas\uMicroOndas.dfm</Transaction>
+    <Transaction>2022/06/14 16:07:28.628.pas,D:\Programas AUX\Projeto Microondas\Unit1.pas=D:\Programas AUX\Projeto Microondas\uProgramas.pas</Transaction>
+  </Transactions>
+</BorlandProject>
